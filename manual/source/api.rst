@@ -2023,7 +2023,7 @@ On success, the call to this endpoint will return with 200 and the following bod
         "Value": "<string>"
     }
 
-Example: curl http://i.storswift.com:9195/api/v0/name/publish?arg=QmXbB1Ad9TWt9SqcyiG6iAW6SpKxvupv1YaUPNFyDYRPxF
+Example: curl http://i.storswift.com:9195/api/v0/name/publish?path=QmXbB1Ad9TWt9SqcyiG6iAW6SpKxvupv1YaUPNFyDYRPxF
 
 .. code-block:: json
 
